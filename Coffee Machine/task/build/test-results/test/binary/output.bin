@@ -2,7 +2,6 @@
 Start test 1[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -12,21 +11,18 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 .I have enough resources, making you a coffee!
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 Sorry, not enough water!
 
 0Write action (buy, fill, take, remaining, exit):
 > fill
-
 /Write how many ml of water do you want to add: 
 > 1000
 .Write how many ml of milk do you want to add: 
@@ -38,19 +34,16 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 .I have enough resources, making you a coffee!
 
 0Write action (buy, fill, take, remaining, exit):
 > take
-
 I gave you $564
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 700 of water
 390 of milk
@@ -60,12 +53,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 2[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -75,7 +66,6 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > fill
-
 /Write how many ml of water do you want to add: 
 > 3000
 .Write how many ml of milk do you want to add: 
@@ -87,7 +77,6 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 3400 of water
 3540 of milk
@@ -97,12 +86,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 3[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -112,14 +99,12 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 1
 .I have enough resources, making you a coffee!
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 150 of water
 540 of milk
@@ -129,12 +114,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 4[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -144,14 +127,12 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
 .I have enough resources, making you a coffee!
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 50 of water
 465 of milk
@@ -161,12 +142,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 5[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -176,14 +155,12 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 3
 .I have enough resources, making you a coffee!
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 200 of water
 440 of milk
@@ -193,12 +170,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 6[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -208,12 +183,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > take
-
 I gave you $550
 
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -223,12 +196,10 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
 [1;31m
 Start test 7[0m
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -238,12 +209,11 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > buy
-
 VWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > back
+learn to type!
 0Write action (buy, fill, take, remaining, exit):
 > remaining
-
 The coffee machine has
 400 of water
 540 of milk
@@ -253,4 +223,3 @@
 
 0Write action (buy, fill, take, remaining, exit):
 > exit
-
